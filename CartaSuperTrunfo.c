@@ -66,9 +66,3 @@ int main() {
 return 0;
 } 
 
-/*
-ESPAÇO PARA AUTO ANALISE:
-Qual o grande problema desse desafio, talvez seja algo de extremo principiante, mas vamos la:
-- O codigo nao quando eu escrevo o estado com espaço da ERRO;
-- 
-*/
