@@ -1,5 +1,4 @@
-
-Tipos de Operadores Relacionais
+### Tipos de Operadores Relacionais
 a > b (Maior que)
 a < b (Menor que)
 a >= b (maior ou igual a)
