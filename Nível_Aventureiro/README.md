@@ -1,20 +1,19 @@
+
 # Desafio Super Trunfo - Países - Cadastro das Cartas
-## 🏆 Nível Mestre
 
-No nível Mestre, você implementará comparações entre as cartas, utilizando operadores relacionais e manipulando grandes números com precisão.
+## 🛡️ Nível Aventureiro
 
-### 🆕 Diferença em relação ao Nível Aventureiro:
-- **Comparação de Cartas:**
-  - O sistema permitirá ao usuário comparar duas cartas com base nas propriedades inseridas e calculadas.
-  - Cada carta terá um "Super Poder", que é a soma de todas as propriedades.
-  
+No nível Aventureiro, você expandirá o sistema para incluir propriedades calculadas, permitindo uma análise mais detalhada das cartas.
+
+### 🆕 Diferença em relação ao Nível Novato:
+- **Novas Propriedades Calculadas:**
+  - **Densidade Populacional:** População dividida pela área da cidade.
+  - **PIB per Capita:** PIB total dividido pela população.
+
 ### ⚙️ Funcionalidades do Sistema:
-- O sistema utilizará operadores relacionais para determinar a carta vencedora com base nas propriedades comparadas.
-- A comparação considerará:
-  - **Densidade Populacional:** Vence a carta com menor valor.
-  - **Outras Propriedades:** Vence a carta com maior valor.
-- O resultado das comparações será exibido claramente para cada propriedade.
+- O sistema agora calculará automaticamente a Densidade Populacional e o PIB per Capita com base nos dados inseridos.
+- Essas novas propriedades serão adicionadas às informações exibidas para cada cidade.
 
 ### 📥 Entrada e 📤 Saída de Dados:
-- O usuário insere as cartas a serem comparadas.
-- O sistema exibe os resultados das comparações, indicando a carta vencedora para cada propriedade.
+- O usuário continua inserindo os dados de cada carta interativamente.
+- O sistema exibirá os dados, incluindo as novas propriedades calculadas, de forma clara e organizada.
