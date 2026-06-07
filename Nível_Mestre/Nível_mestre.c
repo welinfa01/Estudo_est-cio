@@ -49,7 +49,6 @@ int main() {
     densidade_demografica2 = populacao2/area2;
     pib_percapta2 = pib2/populacao2;
 
-
     // IMPRESSÕES CARTA 1
     printf("\n##### - CARTA 1 - #####\n");
     printf("Estado: %c\n",estado);
@@ -73,7 +72,5 @@ int main() {
     printf("O PIB é de: %.2f\n",pib2);
     printf("Densidade Populacional: %.2f\n ",densidade_demografica2);
     printf("PIB per Capita: %.2f\n ",pib_percapta2);
-    
-
 return 0;
 } 
