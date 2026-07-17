@@ -7,6 +7,7 @@ int main() {
     float area, pib; 
     float densidade_demografica, pib_percapta;
         // DADOS DA CARTA 1
+    printf("\n##### - DADOS CARTA 1 - #####\n");
     printf("Estado: ");
     scanf("%s", &estado);
     printf("Código da Carta: ");
@@ -31,6 +32,7 @@ int main() {
     float area2, pib2; 
     float densidade_demografica2, pib_percapta2;
         // DADOS DA CARTA 2
+    printf("\n##### - DADOS CARTA 2 - #####\n");
     printf("Estados: ");
     scanf("%s", &estado2);
     printf("Código da Carta: ");
