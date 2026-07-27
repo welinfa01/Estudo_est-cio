@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//As principais edições feitas, foram as alteraçções dos tipos de dados.
 int main() {
     // DEFINIÇÃO DA CARTA 1
     /*Modificadores - https://www.telecom.uff.br/~marcos/protocolos/UFMG/aulas/c320.html*/
